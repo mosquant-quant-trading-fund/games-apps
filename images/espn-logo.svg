@@ -1,0 +1,8 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" fill="#FFFFFF"/>
+  <g transform="translate(20, 20)">
+    <!-- ESPN Logo -->
+    <text x="30" y="35" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#FF0000" text-anchor="middle">ESPN</text>
+    <rect x="15" y="40" width="30" height="3" fill="#FF0000"/>
+  </g>
+</svg>

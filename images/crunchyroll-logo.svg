@@ -1,0 +1,10 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" fill="#FF8C00"/>
+  <g transform="translate(20, 20)">
+    <!-- Crunchyroll Logo -->
+    <ellipse cx="30" cy="30" rx="25" ry="20" fill="#FF4500"/>
+    <path d="M15 25 Q30 15 45 25 Q30 35 15 25" fill="white"/>
+    <circle cx="30" cy="30" r="8" fill="#FF4500"/>
+    <circle cx="30" cy="30" r="5" fill="white"/>
+  </g>
+</svg>

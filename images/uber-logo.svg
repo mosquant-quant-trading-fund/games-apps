@@ -1,0 +1,9 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" fill="#000000"/>
+  <g transform="translate(20, 20)">
+    <!-- Uber Logo -->
+    <text x="30" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">UBER</text>
+    <circle cx="30" cy="20" r="8" fill="white"/>
+    <rect x="25" y="15" width="10" height="10" fill="#000000"/>
+  </g>
+</svg>
