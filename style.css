@@ -36,6 +36,7 @@ body {
     padding: 0 20px;
 }
 
+
 /* Header */
 .header {
     background: #ffa0b5;
@@ -612,11 +613,9 @@ body {
 /* About Section */
 .about-section {
     background: #ffa0b5;
-    padding: 3rem;
+    padding: 20px 3rem 3rem 3rem;
     border-radius: 15px;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
     margin: 3rem 0;
-    border: 1px solid #e9ecef;
 }
 
 .about-section h3 {
@@ -753,6 +752,7 @@ body {
     }
 }
 
+
 @media (max-width: 768px) {
     .header .container {
         flex-direction: row;
@@ -865,6 +865,7 @@ body {
         margin-left: 0;
         width: 100%;
     }
+    
 }
 
 @media (max-width: 480px) {
