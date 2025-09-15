@@ -1,0 +1,7 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" fill="#FF6B35"/>
+  <polygon points="50,20 80,70 20,70" fill="#FFD93D"/>
+  <circle cx="50" cy="60" r="15" fill="#FF6B6B"/>
+  <rect x="40" y="40" width="20" height="20" fill="#4ECDC4" rx="3"/>
+  <text x="50" y="90" text-anchor="middle" font-family="Arial" font-size="7" fill="white" font-weight="bold">PUBG MOBILE</text>
+</svg>
